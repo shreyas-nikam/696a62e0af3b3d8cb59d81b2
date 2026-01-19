@@ -12,3 +12,4 @@ pydantic
 uuid
 datetime
 rich
+openai

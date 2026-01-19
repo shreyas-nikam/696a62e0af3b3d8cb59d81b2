@@ -1,0 +1,15 @@
+{
+  "run_id": "d3c2e960-df65-4ca2-99b7-3572b3783e68",
+  "generated_at": "2026-01-19T10:04:38.540263",
+  "team_or_user": "AI Safety Engineering Team",
+  "app_version": "1.0.0",
+  "inputs_hash": "5cddef7cc1f3cc82dbab4df4545177fd41b981a8624c5929045cc1ccb5a95ad5",
+  "outputs_hash": "5c329558df7c6706069d481114130a7dedf9c90d4a123cc17791d061ca2d3ee8",
+  "artifacts": {
+    "runtime_policy.json": "c7354fc1fe8aa2e8ee69d6a86cb54649afb818f7bc7568bd1191cd43ed88cf45",
+    "verification_results.json": "b85b14df9567fcf3899f9803ec2f965909aa5751e67802b7cf18bd2fce75603c",
+    "audit_log.jsonl": "889facd85cebbd485d7504f9faa14320fdd3d867ddcdaff915743f2c20337e25",
+    "failure_mode_analysis.md": "6a5eaf142c893b250e1588f9a339f5efe0233f50371219e881333f7e4b0c1481",
+    "residual_risk_summary.md": "85448f29bc268a97adb1a70b647ae36f865d55afc0fd0c781a3d8e72b1cbe212"
+  }
+}
